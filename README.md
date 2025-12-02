@@ -51,7 +51,7 @@ Berikut adalah hasil dari proses *Style Transfer* yang dilakukan:
 
 | Gambar Konten | Gambar Gaya | Gambar Hasil |
 | :---: | :---: | :---: |
-| ![Gambar Konten](images/Objek2.jpg) | ![Gambar Gaya](images/Style_Objek.jpg) | ![Gambar Hasil](images/Hasil_NST_Results_Optimized_V2.jpg) |
+| ![Gambar Konten](Images/Objek2.jpg) | ![Gambar Gaya](Images/Style_Objek.jpg) | ![Gambar Hasil](Images/Hasil_NST_Results_Optimized_V2.jpg) |
 
 **Catatan:** Pastikan Anda telah membuat folder `images/` dan menempatkan file gambar di sana. Anda juga bisa menautkan ke gambar yang diunggah di GitHub secara langsung.
 
