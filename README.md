@@ -1,8 +1,6 @@
-# Tugas 2: Deep Learning Lanjut - Neural Style Transfer dengan VGG19
+# Kumpulan Tugas Tugas Deep Learning Lanjut
 
-Proyek ini adalah implementasi **Neural Style Transfer** (NST) menggunakan **TensorFlow** dan **Keras** pada notebook Google Colab. NST adalah teknik yang menggabungkan konten (struktur) dari satu gambar dengan gaya (tekstur, warna) dari gambar lainnya.
 
-Notebook utama yang digunakan adalah `Tugas2_DeepLearningLanjut.ipynb`.
 
 ---
 
